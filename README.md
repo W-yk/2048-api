@@ -11,3 +11,7 @@ Run Trainlstm.py to trainlstm model with game transations data obtained by expec
 model-05.hdf5 is my final model.
 Run evaluate.py to test.
 
+# reinforcement learning 
+
+RL algorithms code are under RL folder, it works but will take too much time training.
+
