@@ -13,5 +13,6 @@ Run evaluate.py to test.
 
 # reinforcement learning 
 
-RL algorithms code are under RL folder, it works but will take too much time training.
+RL algorithms code are under RL folder.
+Each code can be run independently.
 
